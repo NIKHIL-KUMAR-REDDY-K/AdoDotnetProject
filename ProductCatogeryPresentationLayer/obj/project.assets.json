@@ -587,11 +587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer.csproj",
       "projectName": "ProductCatogeryPresentationLayer",
-      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer.csproj",
+      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer.csproj",
       "packagesPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\obj\\",
+      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCatogeryPresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -612,11 +612,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj"
+            "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj"
             },
-            "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCatogeryEntityLater\\ProductCatogeryEntityLater.csproj": {
-              "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCatogeryEntityLater\\ProductCatogeryEntityLater.csproj"
+            "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCatogeryEntityLater\\ProductCatogeryEntityLater.csproj": {
+              "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCatogeryEntityLater\\ProductCatogeryEntityLater.csproj"
             }
           }
         }
@@ -645,7 +645,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

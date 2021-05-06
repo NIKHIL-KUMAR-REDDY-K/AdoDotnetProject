@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dddjPdGwjNiHEDMaNE9t8WxIwfUgqXtl5a51BMr6lT+BjSnYZ1ITeDmRYiuN21EKHjbmsiHLIjsKro7Wnab0rw==",
+  "dgSpecHash": "FqdY74PJwWpx4l8w31l9hqr1kYQggfhrJz3F1xJvHXern8kI2seALmdTYuC7wYkYkCxC0zXetO/v0cvoOarOtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\K NIKHIL KUMAR REDDY\\source\\repos\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\week2\\codingchallengeAdo.net\\ProductCatogeryPresentationLayer\\ProductCategoryBusinessLogicLayer\\ProductCategoryBusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\K NIKHIL KUMAR REDDY\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\K NIKHIL KUMAR REDDY\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",

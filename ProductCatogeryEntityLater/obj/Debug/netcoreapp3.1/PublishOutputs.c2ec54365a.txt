@@ -1,0 +1,5 @@
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\week2\codingchallengeAdo.net\ProductCatogeryPresentationLayer\ProductCatogeryEntityLater\bin\Debug\netcoreapp3.1\publish\ProductCatogeryEntityLater.exe
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\week2\codingchallengeAdo.net\ProductCatogeryPresentationLayer\ProductCatogeryEntityLater\bin\Debug\netcoreapp3.1\publish\ProductCatogeryEntityLater.dll
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\week2\codingchallengeAdo.net\ProductCatogeryPresentationLayer\ProductCatogeryEntityLater\bin\Debug\netcoreapp3.1\publish\ProductCatogeryEntityLater.deps.json
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\week2\codingchallengeAdo.net\ProductCatogeryPresentationLayer\ProductCatogeryEntityLater\bin\Debug\netcoreapp3.1\publish\ProductCatogeryEntityLater.runtimeconfig.json
+C:\Users\K NIKHIL KUMAR REDDY\OneDrive\Desktop\week2\codingchallengeAdo.net\ProductCatogeryPresentationLayer\ProductCatogeryEntityLater\bin\Debug\netcoreapp3.1\publish\ProductCatogeryEntityLater.pdb
